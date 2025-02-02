@@ -1,4 +1,4 @@
 hello
-this is srikrishna
-i am working as software engineer
+this is krishna
+i am working as devops engineer
 i am happy to learn
